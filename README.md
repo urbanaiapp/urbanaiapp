@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**urbanaiapp/urbanaiapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Consulta de Legislação de Trânsito</title>
+</head>
+<body style="background-color: #121212; color: #ffffff; font-family: sans-serif; padding: 20px;">
+<div id="app">
+<h1>Sistema de Consulta de Legislação</h1>
+<p>Conectando com o Supabase...</p>
+</div>
+</body>
+</html>
